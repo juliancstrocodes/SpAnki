@@ -9,5 +9,5 @@ Built under the umbrella of "Social Good," for the Boston College Hackathon. Pot
 Optical Character Recognition; Boxed Boundaries; iOS Camera; Google Docs Extension; Merriam-Webster API; Anki API.
 
 ## Teammates
-Jason Kena
+Jason Kena,
 Steven Roche
